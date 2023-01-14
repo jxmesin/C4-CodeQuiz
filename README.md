@@ -2,8 +2,7 @@
 This weeks challenge was to create a coding quiz using JavaScript.
 You can check it out here: https://jxmesin.github.io/C4-CodeQuiz/
 
-
-
+<img width="1512" alt="Screenshot 2023-01-13 at 8 03 10 PM" src="https://user-images.githubusercontent.com/112153725/212449978-aa332455-761e-4b32-8691-d7126e670edb.png">
 
 # User Story
 AS A coding boot camp student
